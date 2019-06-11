@@ -1,0 +1,9 @@
+ids,labels,parents,parents2
+aaa,a,a,a
+baa,b,a,a
+aba,a,b,a
+bba,b,b,a
+aab,a,a,b
+bab,b,a,b
+abb,a,b,b
+bbb,b,b,b
