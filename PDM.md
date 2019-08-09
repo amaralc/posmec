@@ -1,4 +1,4 @@
-# Projeto de Dissertação de Mestrado
+# Projeto de Dissertação de Mestrado - Tópicos
 
 ## Objetivos Gerais
 - Registrar metodologia para projeto mecânico estrutural de componentes a serem fabricados por Laser Directed Energy Deposition com utilização de pó;
