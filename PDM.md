@@ -9,8 +9,9 @@
 - Realizar validação experimental de simulações estruturais realizadas utilizando propriedades mecânicas extraidas de corpos de prova;
 
 ## Metodologia
-- Problematização dos atuais desafios enfrentados durante o desenvolvimento de componentes;
+- Registro dos atuais desafios e incertezas existentes durante o desenvolvimento de componentes;
 - Mapeamento das principais dúvidas relacionadas ao projeto de componentes em ambiente de desenvolvimento;
+- Mapeamento de dúvidas específicas relacionadas ao projeto de componentes para DED Laser;
 - Revisão da literatura abordando os temas mapeados;
 - Fabricação de corpos de prova;
 - Medição das propriedades mecânicas e outras características críticas de corpos de prova fabricados em diferentes direções;
